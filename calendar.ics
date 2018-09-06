@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ShopReply Inc//CalReply 1.0//EN
+METHOD:REFRESH
+X-WR-CALDESC:This is the Official calendar for the NCAAF Atlantic Coast Con
+	ference on ESPN. \n\nClick the "Add to Calendar" button to add your team's sc
+	hedule to your calendar so you never miss a game!
+X-WR-CALNAME:Atlantic Coast Conference - Virginia Tech Hokies
+X-WR-RELCALID:f33ea22b-a972-e511-a14c-063521276427
+X-PUBLISH-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20070101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU;
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070101T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU;
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:19800101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7d753fc8-2fe2-4ec2-8510-6c9582bec00d
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Tech Hokies @ Florida State Seminoles
+DTSTART;TZID="America/New_York":20180903T200000
+DTEND;TZID="America/New_York":20180903T230000
+DESCRIPTION:Watch the Virginia Tech Hokies take on the Florida State Semino
+	les LIVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=401013096&sp
+	ort=college-football\n\nFollow along online for live updates at: http://espn.
+	go.com/college-football/game?gameId=401013096\n\nGear up at the ESPN Fan Shop
+	 powered by Dick’s Sporting Goods: http://www.dickssportinggoods.com/category
+	/index.jsp?categoryId=15504456&camp=Part:ESPNPart_NCF:Shop:CalendarEventsLink
+	\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsubscribe by following - ht
+	tp://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94faede809efa52c\n\nPowered
+	 by CalReply - http://calrep.ly/poweredby
+LOCATION:FINAL: Virginia Tech Hokies 24 - 3 Florida State Seminoles
+DTSTAMP:20180904T080452Z
+LAST-MODIFIED:20180904T080452Z
+SEQUENCE:2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f7e5e4b8-5355-4615-b276-5a44dcc06111
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  William & Mary Tribe @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20180908T140000
+DTEND;TZID="America/New_York":20180908T170000
+DESCRIPTION:Watch the William & Mary Tribe take on the Virginia Tech Hokies
+	 LIVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=401013107&sport
+	=college-football\n\nFollow along online for live updates at: http://espn.go.
+	com/college-football/game?gameId=401013107\n\nBuy Tickets with Vivid Seats! h
+	ttps://www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-vs
+	-william-and-mary-9-8-2568950.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPOR
+	T-_-PARTESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods
+	: http://www.dickssportinggoods.com/category/index.jsp?categoryId=15504456&ca
+	mp=Part:ESPNPart_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1Xem
+	H3x\n\nYou may unsubscribe by following - http://cal-cfb.espn.com/unsubscribe
+	/bd00fc2a937a420f94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/p
+	oweredby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180519T080618Z
+LAST-MODIFIED:20180519T080618Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f71e3c-deaf-4e97-a3df-5593fbd57be2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  East Carolina Pirates @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20180915T122000
+DTEND;TZID="America/New_York":20180915T152000
+DESCRIPTION:Watch the East Carolina Pirates take on the Virginia Tech Hokie
+	s LIVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=401013118&spor
+	t=college-football\n\nFollow along online for live updates at: http://espn.go
+	.com/college-football/game?gameId=401013118\n\nBuy Tickets with Vivid Seats! 
+	https://www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-v
+	s-east-carolina-9-15-2568951.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT
+	-_-PARTESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods:
+	 http://www.dickssportinggoods.com/category/index.jsp?categoryId=15504456&cam
+	p=Part:ESPNPart_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH
+	3x\n\nYou may unsubscribe by following - http://cal-cfb.espn.com/unsubscribe/
+	bd00fc2a937a420f94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/po
+	weredby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180519T080618Z
+LAST-MODIFIED:20180519T080618Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc7eb1c-258a-4234-bd8f-943a3efa89e6
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Tech Hokies @ Old Dominion Monarchs
+DTSTART;TZID="America/New_York":20180922T153000
+DTEND;TZID="America/New_York":20180922T183000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013128\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/old-dominion-monarchs-tickets/old-dominion-monarchs-
+	9-22-2632471.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nG
+	ear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dick
+	ssportinggoods.com/category/index.jsp?categoryId=15504456&camp=Part:ESPNPart_
+	NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may un
+	subscribe by following - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f
+	94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Watch on CBSSN
+DTSTAMP:20180615T080540Z
+LAST-MODIFIED:20180615T080540Z
+SEQUENCE:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:589948bf-4b68-48b6-88bf-b4380a0d9d7c
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Tech Hokies @ Duke Blue Devils
+DTSTART;TZID="America/New_York":20180929T120000
+DTEND;TZID="America/New_York":20180929T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013132\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/duke-blue-devils-tickets/duke-9-29-2588540.html?wsUs
+	er=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at the ESPN Fan
+	 Shop powered by Dick’s Sporting Goods: http://www.dickssportinggoods.com/cat
+	egory/index.jsp?categoryId=15504456&camp=Part:ESPNPart_NCF:Shop:CalendarEvent
+	sLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsubscribe by following
+	 - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94faede809efa52c\n\nPo
+	wered by CalReply - http://calrep.ly/poweredby
+LOCATION:Wallace Wade Stadium - Durham\, NC
+DTSTAMP:20180223T080720Z
+LAST-MODIFIED:20180223T080720Z
+SEQUENCE:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5f5e76-ece9-4f16-8e32-ceae1d83025c
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Notre Dame Fighting Irish @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20181006T120000
+DTEND;TZID="America/New_York":20181006T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013143\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-10-6-2470
+	850.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at
+	 the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssporting
+	goods.com/category/index.jsp?categoryId=15504456&camp=Part:ESPNPart_NCF:Shop:
+	CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsubscribe
+	 by following - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94faede80
+	9efa52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180118T080453Z
+LAST-MODIFIED:20180118T080453Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a09a6665-3b55-4e24-a380-83e286ee97de
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Tech Hokies @ North Carolina Tar Heels
+DTSTART;TZID="America/New_York":20181013T120000
+DTEND;TZID="America/New_York":20181013T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013147\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/north-carolina-tar-heels-tickets/north-carolina-10-1
+	3-2588526.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear
+	 up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504456&camp=Part:ESPNPart_NCF
+	:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsub
+	scribe by following - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94f
+	aede809efa52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Kenan Stadium - Chapel Hill\, NC
+DTSTAMP:20180125T080521Z
+LAST-MODIFIED:20180125T080521Z
+SEQUENCE:1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1238f0c3-e294-4b5c-9f57-4392def94217
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Georgia Tech Yellow Jackets @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20181025T193000
+DTEND;TZID="America/New_York":20181025T223000
+DESCRIPTION:Watch the Georgia Tech Yellow Jackets take on the Virginia Tech
+	 Hokies LIVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=40101315
+	3&sport=college-football\n\nFollow along online for live updates at: http://e
+	spn.go.com/college-football/game?gameId=401013153\n\nBuy Tickets with Vivid S
+	eats! https://www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-
+	tech-vs-georgia-tech-10-25-2588607.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCAL
+	EXPORT-_-PARTESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting 
+	Goods: http://www.dickssportinggoods.com/category/index.jsp?categoryId=155044
+	56&camp=Part:ESPNPart_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly
+	/1XemH3x\n\nYou may unsubscribe by following - http://cal-cfb.espn.com/unsubs
+	cribe/bd00fc2a937a420f94faede809efa52c\n\nPowered by CalReply - http://calrep
+	.ly/poweredby
+LOCATION:Watch on ESPN
+DTSTAMP:20180519T080618Z
+LAST-MODIFIED:20180519T080618Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48cf9b00-93e0-419c-84bb-599a1291b3d6
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Boston College Eagles @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20181103T120000
+DTEND;TZID="America/New_York":20181103T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013161\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-vs-boston
+	-college-11-3-2588609.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PART
+	ESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http:/
+	/www.dickssportinggoods.com/category/index.jsp?categoryId=15504456&camp=Part:
+	ESPNPart_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nY
+	ou may unsubscribe by following - http://cal-cfb.espn.com/unsubscribe/bd00fc2
+	a937a420f94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180118T080453Z
+LAST-MODIFIED:20180118T080453Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a815083a-803d-456f-bc58-16523b318e66
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Tech Hokies @ Pittsburgh Panthers
+DTSTART;TZID="America/New_York":20181110T120000
+DTEND;TZID="America/New_York":20181110T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013173\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/pittsburgh-panthers-tickets/pitt-11-10-2588550.html?
+	wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at the ESPN
+	 Fan Shop powered by Dick’s Sporting Goods: http://www.dickssportinggoods.com
+	/category/index.jsp?categoryId=15504456&camp=Part:ESPNPart_NCF:Shop:CalendarE
+	ventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsubscribe by follo
+	wing - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94faede809efa52c\n
+	\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Heinz Field - Pittsburgh\, PA
+DTSTAMP:20180118T080453Z
+LAST-MODIFIED:20180118T080453Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7570b0a6-4b8a-424c-b709-813b0caa2080
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Miami Hurricanes @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20181117T120000
+DTEND;TZID="America/New_York":20181117T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013179\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-vs-miami-
+	11-17-2588611.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\n
+	Gear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dic
+	kssportinggoods.com/category/index.jsp?categoryId=15504456&camp=Part:ESPNPart
+	_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x\n\nYou may u
+	nsubscribe by following - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420
+	f94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180118T080453Z
+LAST-MODIFIED:20180118T080453Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4295373f-fa5c-4212-9694-4d1303ccb4a3
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:🏈  Virginia Cavaliers @ Virginia Tech Hokies
+DTSTART;TZID="America/New_York":20181123T120000
+DTEND;TZID="America/New_York":20181123T150000
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
+	lege-football/game?gameId=401013183\n\nBuy Tickets with Vivid Seats! https://
+	www.vividseats.com/ncaaf/virginia-tech-hokies-tickets/virginia-tech-vs-virgin
+	ia-cavaliers-11-23-2588612.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_
+	-PARTESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: h
+	ttp://www.dickssportinggoods.com/category/index.jsp?categoryId=15504456&camp=
+	Part:ESPNPart_NCF:Shop:CalendarEventsLink\n\nShare - http://calrep.ly/1XemH3x
+	\n\nYou may unsubscribe by following - http://cal-cfb.espn.com/unsubscribe/bd
+	00fc2a937a420f94faede809efa52c\n\nPowered by CalReply - http://calrep.ly/powe
+	redby
+LOCATION:Lane Stadium - Blacksburg\, VA
+DTSTAMP:20180118T080453Z
+LAST-MODIFIED:20180118T080453Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd00fc2a-937a-420f-94fa-ede809efa52c
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+SUMMARY:You have successfully subscribed to the Atlantic Coast Conference calendar
+DTSTART:20180906T003102Z
+DTEND:20180906T003602Z
+DESCRIPTION:\n\nShare - http://calrep.ly/1XemH3x\n\nYou may unsubscribe by 
+	following - http://cal-cfb.espn.com/unsubscribe/bd00fc2a937a420f94faede809efa
+	52c\n\nPowered by CalReply - http://calrep.ly/poweredby
+LOCATION:Your calendar will be updated automatically when new events become
+	 available
+DTSTAMP:20180906T003728Z
+LAST-MODIFIED:20180906T003728Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
