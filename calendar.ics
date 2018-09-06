@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:7d753fc8-2fe2-4ec2-8510-6c9582bec00d
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Tech Hokies @ Florida State Seminoles
+SUMMARY:Virginia Tech Hokies @ Florida State Seminoles
 DTSTART;TZID="America/New_York":20180903T200000
 DTEND;TZID="America/New_York":20180903T230000
 DESCRIPTION:Watch the Virginia Tech Hokies take on the Florida State Semino
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 UID:f7e5e4b8-5355-4615-b276-5a44dcc06111
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  William & Mary Tribe @ Virginia Tech Hokies
+SUMMARY:William & Mary Tribe @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20180908T140000
 DTEND;TZID="America/New_York":20180908T170000
 DESCRIPTION:Watch the William & Mary Tribe take on the Virginia Tech Hokies
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 UID:a5f71e3c-deaf-4e97-a3df-5593fbd57be2
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  East Carolina Pirates @ Virginia Tech Hokies
+SUMMARY:East Carolina Pirates @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20180915T122000
 DTEND;TZID="America/New_York":20180915T152000
 DESCRIPTION:Watch the East Carolina Pirates take on the Virginia Tech Hokie
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 UID:2dc7eb1c-258a-4234-bd8f-943a3efa89e6
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Tech Hokies @ Old Dominion Monarchs
+SUMMARY:Virginia Tech Hokies @ Old Dominion Monarchs
 DTSTART;TZID="America/New_York":20180922T153000
 DTEND;TZID="America/New_York":20180922T183000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 UID:589948bf-4b68-48b6-88bf-b4380a0d9d7c
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Tech Hokies @ Duke Blue Devils
+SUMMARY:Virginia Tech Hokies @ Duke Blue Devils
 DTSTART;TZID="America/New_York":20180929T120000
 DTEND;TZID="America/New_York":20180929T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 UID:eb5f5e76-ece9-4f16-8e32-ceae1d83025c
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Notre Dame Fighting Irish @ Virginia Tech Hokies
+SUMMARY:Notre Dame Fighting Irish @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20181006T120000
 DTEND;TZID="America/New_York":20181006T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 UID:a09a6665-3b55-4e24-a380-83e286ee97de
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Tech Hokies @ North Carolina Tar Heels
+SUMMARY:Virginia Tech Hokies @ North Carolina Tar Heels
 DTSTART;TZID="America/New_York":20181013T120000
 DTEND;TZID="America/New_York":20181013T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 UID:1238f0c3-e294-4b5c-9f57-4392def94217
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Georgia Tech Yellow Jackets @ Virginia Tech Hokies
+SUMMARY:Georgia Tech Yellow Jackets @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20181025T193000
 DTEND;TZID="America/New_York":20181025T223000
 DESCRIPTION:Watch the Georgia Tech Yellow Jackets take on the Virginia Tech
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 UID:48cf9b00-93e0-419c-84bb-599a1291b3d6
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Boston College Eagles @ Virginia Tech Hokies
+SUMMARY:Boston College Eagles @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20181103T120000
 DTEND;TZID="America/New_York":20181103T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 UID:a815083a-803d-456f-bc58-16523b318e66
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Tech Hokies @ Pittsburgh Panthers
+SUMMARY:Virginia Tech Hokies @ Pittsburgh Panthers
 DTSTART;TZID="America/New_York":20181110T120000
 DTEND;TZID="America/New_York":20181110T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 UID:7570b0a6-4b8a-424c-b709-813b0caa2080
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Miami Hurricanes @ Virginia Tech Hokies
+SUMMARY:Miami Hurricanes @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20181117T120000
 DTEND;TZID="America/New_York":20181117T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
@@ -330,7 +330,7 @@ BEGIN:VEVENT
 UID:4295373f-fa5c-4212-9694-4d1303ccb4a3
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
-SUMMARY:🏈  Virginia Cavaliers @ Virginia Tech Hokies
+SUMMARY:Virginia Cavaliers @ Virginia Tech Hokies
 DTSTART;TZID="America/New_York":20181123T120000
 DTEND;TZID="America/New_York":20181123T150000
 DESCRIPTION:Follow along online for live updates at: http://espn.go.com/col
